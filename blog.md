@@ -2,6 +2,8 @@
 
 ## About Me
 
+Hi I'm Shreya
+
 ## The Premise
 
 ## Tools used
